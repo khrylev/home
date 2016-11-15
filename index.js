@@ -1,3 +1,4 @@
+/*global $*/
 $(function() {
     $('.smooth').on('click', function(event) {
         var target = $(this.getAttribute('href'));
