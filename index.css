@@ -7,12 +7,3 @@
     max-width: 500px;
     margin: 0 auto;
 } 
-
-nav {
-    position: fixed;
-    background-color: white;
-    color: #080808;
-    display: inline-block;
-    width: 100%;
-    z-index: 1;
-}
